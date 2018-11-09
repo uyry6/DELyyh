@@ -1,0 +1,31 @@
+\documentclass[12pt,a4paper]{article}
+\input{latexmacros.tex}
+
+\title{Finite Automata and Regular Expresions \\in Haskell}
+\author{Yuanho Yao}
+\date{\today}
+\hypersetup{pdfauthor={Yuanho Yao}, pdftitle={Finite Automata and Regular Expresions in Haskell}}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+  This article investigates how finite automata and regular expressions are connected. We give an implementation of DFA(deterministic finite automata) and NFA(non-deterministic finite automata) and RE(regular expression) in Haskell.
+  We first encode DFA and then give a code converting RE to NFA and NFA to DFA respectively.
+  This program enables us to verify if a string is accepted in certain DFA. And we can determine if a string is an instance of certain RE.
+\end{abstract}
+
+\vfill
+
+\tableofcontents
+
+\clearpage
+
+\input{lib/Mycode.lhs}
+
+\addcontentsline{toc}{section}{Bibliography}
+\bibliographystyle{plain}
+\bibliography{references.bib}
+
+\end{document}

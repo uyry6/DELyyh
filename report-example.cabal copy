@@ -1,0 +1,12 @@
+name:          report-example
+version:       0.1.0.0
+build-type:    Simple
+cabal-version: >= 1.8
+
+library
+  ghc-options:      -Wall
+  exposed-modules:  Mycode
+  hs-source-dirs:   lib
+  build-depends:    containers,
+                    base >= 4.7 && < 5,
+                    random

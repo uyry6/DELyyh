@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: plain.bst
+Database file #1: references.bib.bib
+Warning--empty journal in thompson2000regular
+You've used 11 entries,
+            2118 wiz_defined-function locations,
+            569 strings with 5611 characters,
+and the built_in function-call counts, 2931 in all, are:
+= -- 282
+> -- 116
+< -- 2
++ -- 47
+- -- 36
+* -- 154
+:= -- 508
+add.period$ -- 38
+call.type$ -- 11
+change.case$ -- 46
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 124
+empty$ -- 253
+format.name$ -- 36
+if$ -- 614
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 14
+newline$ -- 63
+num.names$ -- 22
+pop$ -- 73
+preamble$ -- 1
+purify$ -- 40
+quote$ -- 0
+skip$ -- 83
+stack$ -- 0
+substring$ -- 123
+swap$ -- 18
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 34
+warning$ -- 1
+while$ -- 29
+width$ -- 13
+write$ -- 125
+(There was 1 warning)

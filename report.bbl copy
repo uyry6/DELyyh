@@ -1,0 +1,69 @@
+\begin{thebibliography}{10}
+
+\bibitem{aho2003compilers}
+Alfred~V Aho.
+\newblock {\em Compilers: principles, techniques and tools (for Anna
+  University), 2/e}.
+\newblock Pearson Education India, 2003.
+
+\bibitem{REtoNFA_YT}
+Barry Brown.
+\newblock Regular expression to nfa, 2011.
+\newblock \url{https://www.youtube.com/watch?v=RYNN-tb9WxI}.
+
+\bibitem{Floyd}
+Thomas~H Cormen, Charles~E Leiserson, Ronald~L Rivest, and Clifford Stein.
+\newblock {\em Introduction to algorithms}.
+\newblock MIT press, 2009.
+\newblock See in particular Section 26.2, "The Floyd–Warshall algorithm", pp.
+  558–565 and Section 26.4, "A general framework for solving path problems in
+  directed graphs", pp. 570–576.
+
+\bibitem{DFA}
+John~E Hopcroft, Rajeev Motwani, and Jeffrey~D Ullman.
+\newblock Introduction to automata theory, languages, and computation.
+\newblock {\em Acm Sigact News}, 32(1):60--65, 2001.
+
+\bibitem{lipovaca2011learn}
+Miran Lipovaca.
+\newblock {\em Learn you a haskell for great good!: a beginner's guide}.
+\newblock no starch press, 2011.
+\newblock ISBN-13: 978-1-59327-283-8.
+
+\bibitem{NFA}
+John~C Martin.
+\newblock {\em Introduction to Languages and the Theory of Computation},
+  volume~4.
+\newblock McGraw-Hill NY, USA, 1991.
+\newblock p. 108.
+
+\bibitem{PFA}
+Michael~O Rabin and Dana Scott.
+\newblock Finite automata and their decision problems.
+\newblock {\em IBM journal of research and development}, 3(2):114--125, 1959.
+
+\bibitem{Replace}
+Michael Shaw.
+\newblock Replacing items in a list, 2018.
+\newblock
+  \url{https://codereview.stackexchange.com/questions/85703/replacing-items-in-a-list}.
+
+\bibitem{RE}
+Michael Sipser.
+\newblock Chapter 1: Regular languages.
+\newblock {\em Introduction to the Theory of Computation}, pages 31--90, 1998.
+
+\bibitem{thompson2000regular}
+Simon Thompson.
+\newblock Regular expressions and automata using haskell.
+\newblock 2000.
+\newblock \url{http://cs.nyu.edu/totok/professional/software/tpcw/tpcw.html}.
+
+\bibitem{Kleene}
+Jay Yellen and Jonathan~L Gross.
+\newblock {\em Handbook of Graph Theory (Discrete Mathematics and Its
+  Applications)}.
+\newblock CRC press, 2003.
+\newblock sect.2.1, remark R13 on p.65.
+
+\end{thebibliography}

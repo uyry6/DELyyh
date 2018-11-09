@@ -1,0 +1,51 @@
+\relax 
+\providecommand\zref@newlabel[2]{}
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\citation{Floyd}
+\citation{Kleene}
+\citation{lipovaca2011learn}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Floyd\IeC {\textendash }Warshall algorithm}{2}{section.1}}
+\newlabel{sec:Floyd}{{1}{2}{Floyd–Warshall algorithm}{section.1}{}}
+\citation{DFA}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Deterministic Finite automata}{3}{section.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Regular expressions to finite automata}{5}{section.3}}
+\citation{RE}
+\citation{thompson2000regular}
+\citation{NFA}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}RE to NFA}{6}{subsection.3.1}}
+\citation{aho2003compilers}
+\citation{REtoNFA_YT}
+\citation{Replace}
+\citation{PFA}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}NFA to DFA - powerset construction}{10}{subsection.3.2}}
+\bibstyle{plain}
+\bibdata{references.bib}
+\bibcite{aho2003compilers}{1}
+\bibcite{REtoNFA_YT}{2}
+\bibcite{Floyd}{3}
+\bibcite{DFA}{4}
+\bibcite{lipovaca2011learn}{5}
+\bibcite{NFA}{6}
+\bibcite{PFA}{7}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Future work}{12}{section.4}}
+\@writefile{toc}{\contentsline {section}{Bibliography}{12}{section.4}}
+\bibcite{Replace}{8}
+\bibcite{RE}{9}
+\bibcite{thompson2000regular}{10}
+\bibcite{Kleene}{11}
